@@ -1,0 +1,72 @@
+h4{
+    color: magenta;
+    font-style:oblique;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+}
+P{
+    color: blueviolet;
+    font-style:italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+#id1{
+    color: magenta;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+.class1{
+    color: chocolate;
+    font-style:italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+.class2{
+    color: green;
+    font-style:oblique;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+    
+}
+h3,h4,h5
+{
+    color: red;
+    font-style:oblique;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    
+
+
+}
+marquee{
+    color:slateblue;
+    font-style:oblique;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+    background-color: bisque;
+    text-align: center;
+    border: solid;
+}
+
+
